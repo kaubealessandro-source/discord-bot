@@ -2147,7 +2147,7 @@ console.log("2 - BEFORE LOGIN");
 
 (async () => {
     try {
-        await client.login("MTUxNzUyMDcwOTY4ODEwMjk4Mw.G7dfg-.G-HaUZ87W_616tauzbA8c0UMB-mlytCuubVrZs");
+        await client.login("MTUxNzUyMDcwOTY4ODEwMjk4Mw.GNNeu9.eRtFFKC-X1jbWflNpq-WAy1gPjul-QNEjV3yys");
         console.log("LOGIN SUCCESS");
     } catch (err) {
         console.error("LOGIN FAILED:", err);
