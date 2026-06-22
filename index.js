@@ -1,5 +1,5 @@
 console.log("1 - FILE STARTED");
-
+require("dotenv").config();
 
 
 process.on("uncaughtException", (err) => {
@@ -2147,7 +2147,7 @@ console.log("2 - BEFORE LOGIN");
 
 (async () => {
     try {
-        await client.login("MTUxNzUyMDcwOTY4ODEwMjk4Mw.GNNeu9.eRtFFKC-X1jbWflNpq-WAy1gPjul-QNEjV3yys");
+        client.login(process.env.DISCORD_TOKEN);
         console.log("LOGIN SUCCESS");
     } catch (err) {
         console.error("LOGIN FAILED:", err);
