@@ -1,0 +1,5770 @@
+{
+  "users": {
+    "1167559400471396363": {
+      "money": 34995,
+      "club": [
+        {
+          "instanceId": "c65_1782081108627_290887",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782081113749_975992",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782081119466_247713",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782081120522_922333",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081121630_495281",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782081122909_113740",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081126367_553004",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c50_1782081127530_897309",
+          "cardId": "c50",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081132496_491978",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081135952_123866",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782081137032_709474",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782081138074_778881",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782081139914_288230",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081141008_603696",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782081142792_306870",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782081143956_838397",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782081146853_412591",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081148479_232559",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081149705_609582",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782081150731_817196",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782081151794_227482",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782081153139_568633",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782081155074_705325",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081156213_717544",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081157247_702632",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081159410_170249",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782081161278_385883",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782081166565_753120",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782081168026_181522",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081173780_310851",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081174855_920317",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782081177108_106148",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782081178251_615729",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782081179333_894917",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782081180362_824263",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081182402_316845",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081184746_911471",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782081186681_56197",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782081187940_491302",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782081189117_343092",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782081190182_94967",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782081191256_234851",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782081194457_221120",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c35_1782081195556_319308",
+          "cardId": "c35",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782081196588_465160",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782081217703_990920",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081223113_117032",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081225121_936102",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782081226265_730131",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782081227267_963034",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782081228339_401536",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782081229385_252804",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782081231491_130989",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782081232579_850353",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782081234499_632751",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782081235627_292298",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081236661_24683",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782081237752_960359",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782081238779_949535",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782081239837_574416",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782081242878_212308",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782081243917_223110",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782081244946_114582",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782081253239_709127",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782081254364_570628",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782081258090_85936",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081260424_499883",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782081261518_189614",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081263375_505272",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782081264412_679946",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c20_1782081265449_508655",
+          "cardId": "c20",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782081266543_295952",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782081267678_501748",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782081268710_699790",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782081269732_207916",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782081270742_221004",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081272945_169380",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782081275344_503885",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782081278096_740607",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782081279315_582020",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782081280473_534426",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782081282585_328170",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782081286317_760684",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081287364_374823",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081288532_742975",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782081290050_631070",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782081291294_880114",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782081293091_627275",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782081318904_821050",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782081320639_534126",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081321678_462572",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081322821_334079",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782081323862_623859",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081325095_711359",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782081326970_710693",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081328025_970644",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782081329113_969903",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081331020_914834",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081333929_311263",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782081334980_285221",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782081336510_300645",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782081337642_884886",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782081338977_637464",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782081340493_667293",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782081342108_978455",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782081343330_577722",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782081344521_602235",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782081345900_316724",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782081347323_323339",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782082425441_479540",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082426531_49117",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782082427544_136511",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782082429607_497625",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782082430683_426807",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082431810_273066",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782082433151_676459",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782082434178_854783",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782082435225_546294",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082436761_841093",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782082438063_917555",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782082439216_30180",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782082440430_658287",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782082441757_644037",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782082443660_283673",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782082444691_108746",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782082446093_361528",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782082447282_327294",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782082448433_988980",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782082449511_297650",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782082450595_28113",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782082451867_564519",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782082452959_651514",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782082560626_597196",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782082567952_548706",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782082570411_367201",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782082571693_340242",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782082572778_950978",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082573990_15506",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782082575005_532070",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782082576107_591931",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782082577214_766802",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782082579069_522531",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782082580298_635834",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782082581365_745093",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782082582391_155919",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782082583736_650244",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782082585691_274405",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082586707_543929",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082601432_420102",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782082602608_917058",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782082603672_469793",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782082605597_910061",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782082607493_233730",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782082609371_473164",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082610878_132543",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782082611889_381137",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782082613870_407241",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782082614908_954527",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782082617110_958085",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782082618173_254836",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782082620928_998906",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782082624527_153866",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782082626532_524187",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082628392_185092",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782082630475_799859",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782082641266_592459",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782082642304_593203",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782082643507_710802",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782082645003_135546",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782082647716_783348",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782082650072_778488",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782082651152_511088",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782082652874_281741",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782082653904_779283",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782082655055_146922",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782082656210_232043",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782082657344_650980",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782082658396_108073",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782082660416_2651",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782082662454_82185",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782082663503_294219",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782082664556_2787",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782082665570_443636",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782082690902_472603",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782082692129_837542",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782082693464_527083",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782082694492_60165",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782082696036_631211",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c22_1782082697091_879905",
+          "cardId": "c22",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782082698187_665869",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782082699546_207920",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782082700596_345498",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782082701703_351011",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782082703513_346276",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782082704644_267581",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782082705709_610020",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782082708168_798222",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782082709238_177979",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782082711232_474794",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782082712394_229302",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782082713609_457277",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782082714912_214021",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782082715994_701480",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782082740197_83610",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782082754568_163617",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782082756859_461341",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782082758016_798912",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782083057862_225571",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782083061762_395631",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782083063118_511867",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782083064293_996413",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782083065327_633065",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782083240032_4301",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782083241959_212739",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782083243735_750896",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782083245085_292085",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782083246484_471396",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782083248320_432948",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782083304711_245627",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782083305738_639278",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782083307642_817335",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782083313891_45099",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782083315522_39721",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782083316767_254233",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782083317938_853153",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782083319051_310048",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782083320218_783238",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782083321916_58842",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782083322964_679902",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782083324034_442530",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782083326585_464878",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782083328210_348326",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782083329345_865437",
+          "cardId": "c15",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782083331803_221880",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782083332829_432423",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782083333926_467492",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782083334940_605898",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782083337046_79345",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782083339131_298931",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782083340182_840840",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782083342103_27123",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782083344056_154665",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782083345073_366423",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782083346268_792608",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782083351648_951162",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782084566383_297273",
+          "cardId": "c6",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 590,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": "cahl_1782072182832",
+      "guildRole": "leader",
+      "guildBonus": 0
+    },
+    "1432075345149956180": {
+      "money": 19850,
+      "club": [
+        {
+          "instanceId": "c1_1782073978360_880633",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782074046032_785563",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782074047358_290352",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782074048382_985074",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782074049775_875213",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782074051358_911017",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782074052676_29336",
+          "cardId": "c15",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782074054227_111658",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782074055446_554686",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782074056462_124908",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782074057557_901433",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782074058743_703861",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782074060257_727628",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782074066938_383012",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782074069007_962573",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782074070145_30785",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782074072332_861536",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782076129355_843204",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782076130462_451636",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782076132334_614936",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782076133922_408487",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782076135075_769519",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782076136377_531016",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782076137497_745699",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782076338285_764910",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782076339323_100246",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782076340353_867461",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782076341473_665400",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782076342512_613374",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782076343782_682523",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782076345022_678390",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782076576701_372256",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782076578004_849178",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782076580774_720148",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782076582156_887369",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782076735646_9961",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782076736780_877676",
+          "cardId": "c15",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 164,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": null,
+      "guildRole": null,
+      "guildBonus": 0
+    },
+    "1457458098749833237": {
+      "money": 2590,
+      "club": [],
+      "packsOpened": 3,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": "cahl_1782072182832",
+      "guildRole": "member",
+      "guildBonus": 0
+    },
+    "813549731871326289": {
+      "money": 142090,
+      "club": [
+        {
+          "instanceId": "c60_1782083531710_171756",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782083533326_910812",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782083535476_552961",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782083536502_506220",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782083553090_326458",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782083554307_162695",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782083555323_234308",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782083556452_834605",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782083558550_438902",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782083559586_926288",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782083560773_530241",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782083561935_640000",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782083563684_162620",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782083565524_698555",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782083566619_141799",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782083568450_239253",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782083570300_916861",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782083571316_960392",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782083573068_529992",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782083574172_956457",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782083575321_160731",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782083576447_988713",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782083578378_623762",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782083579491_146165",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782083581422_200157",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782083584491_224987",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782083585957_403945",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782083587340_706574",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782083588360_499378",
+          "cardId": "c6",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 1252,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": "cahl_1782072182832",
+      "guildRole": "member",
+      "guildBonus": 0
+    },
+    "815921644227788810": {
+      "money": 160461,
+      "club": [
+        {
+          "instanceId": "c19_1782085355204_196561",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085359594_630467",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085361609_58981",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085363626_228357",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085365615_465915",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085366747_446664",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782085367846_888006",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085370022_69159",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085371165_863911",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085372196_159389",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782085373321_719987",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085374437_896925",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085375642_396340",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085378441_425379",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085379494_928471",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085380576_570300",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085381963_558143",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782085383021_721371",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782085384167_175248",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085386152_359883",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085387183_4649",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782085388313_985129",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085389345_643743",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085390582_139992",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085391974_200201",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782085393560_406108",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085402305_753221",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085403625_342980",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085404667_497660",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782085405984_322699",
+          "cardId": "c15",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085417260_820454",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085418403_312985",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782085422526_603363",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085423678_805421",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085430298_911372",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085431633_410337",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085432668_279776",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782085434142_858138",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085435185_273172",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085437379_932887",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085438668_4299",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085440352_310542",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782085441444_671558",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085442486_452149",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085449043_663858",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085450482_662229",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782085451516_778264",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085453608_846792",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782085454636_664874",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085461323_787855",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085462546_852180",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085463566_34899",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782085465400_364212",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085466643_545683",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085467702_585036",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782085470344_667570",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085471448_627635",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782085473266_764823",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085474338_383874",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085475509_113625",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c38_1782085506530_293799",
+          "cardId": "c38",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c68_1782085527652_590567",
+          "cardId": "c68",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782085529156_267443",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085530176_465841",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085532244_299266",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782085533555_617241",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085534648_609904",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085535692_395652",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085538392_706415",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085540446_725309",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085541681_403738",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085542703_985221",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782085543748_971709",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085544996_52874",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782085546056_109012",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782085548111_559957",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085549236_350463",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085551869_593581",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085552960_140551",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782085554918_925751",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782085555962_735515",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782085559214_439779",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085561231_729519",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085562338_25436",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085571842_825123",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782085572864_531547",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085574850_659065",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085581171_706106",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085582590_783263",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085584261_96205",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085585974_245509",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782085592342_625197",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782085594116_64791",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085595179_505089",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085596657_252429",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085597668_74785",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085598996_714582",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085600160_663994",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085602061_518223",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085603133_543607",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085604154_602173",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782085605214_838574",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085607347_974993",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085608984_894504",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085610279_273573",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085611309_877727",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085612396_95785",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085613450_482925",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085616056_420534",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782085617336_663659",
+          "cardId": "c15",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085619570_523979",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085620700_902566",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085621911_763208",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085622996_130290",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782085625182_575847",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085626316_898914",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085627735_753606",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782085629498_120489",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085630546_378670",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085632356_101718",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085633424_913828",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085635376_706169",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782085637302_127503",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085638583_145886",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085640968_289790",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085642000_912732",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782085643012_547724",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085644316_49840",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782085645406_446423",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085654237_920927",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085655316_305976",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085664109_334019",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085665431_315232",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085666492_204598",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782085668502_654302",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085669819_792231",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085671103_911118",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085672138_780663",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085674142_552565",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085675542_138901",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085677149_211636",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782085678363_194933",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085679593_616140",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085681323_150788",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085682742_986197",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782085683870_539203",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085685281_164428",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782085686613_924559",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782085690331_58193",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085691364_943383",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782085692428_805549",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085693509_707444",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085694536_365233",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085695593_444147",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085697549_536380",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782085698594_481255",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c36_1782085699619_874454",
+          "cardId": "c36",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085709537_33935",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085711493_244745",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085714341_609813",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782085716744_512611",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085723664_877426",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085724999_193569",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085729111_376645",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c68_1782085731771_638838",
+          "cardId": "c68",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085733262_779649",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085734959_586866",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085736179_1976",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782085738304_135126",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782085739380_837622",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782085740761_399995",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782085742672_588357",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085743743_438026",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085744765_6811",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085745843_851119",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085749568_246826",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085758809_94602",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782085760991_781808",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085763060_246511",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782085764243_140165",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085765476_547214",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782085766506_823616",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085777792_785789",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085778892_30394",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c35_1782085779954_219649",
+          "cardId": "c35",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782085787679_135885",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085789383_412839",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782085790750_451110",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782085794197_975100",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085795257_517015",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782085797675_848166",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782085798802_127808",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085800812_73444",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c22_1782085801895_642811",
+          "cardId": "c22",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085803070_719656",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782085810616_561187",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085812003_836942",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085813245_150695",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085814396_821863",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085817184_513192",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085818316_598269",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085819792_603404",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085821039_229739",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782085823698_80133",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085825002_457714",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085827045_432894",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085836049_218006",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782085853448_597790",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085854576_712379",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085856369_359380",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782085858148_264146",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085859193_37876",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085864229_956015",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085865269_568522",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085866281_567622",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085868348_892709",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085871249_864833",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782085872703_520159",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085884646_444377",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085888334_782658",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782085889473_519484",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782085892975_252509",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782085895058_430010",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085900677_600133",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c76_1782085909929_101953",
+          "cardId": "c76",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085931503_656753",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085932833_298861",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085934544_137571",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085935711_395187",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782085936791_988903",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085937815_387735",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782085939602_792519",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085944018_32217",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782085945169_155300",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085959141_628182",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782085961416_32658",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782085962486_308036",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085963774_984137",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085964875_286341",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085965902_227746",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085968626_520509",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085969893_559392",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782085970987_29059",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782085972096_984953",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782085973215_317352",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782085981574_727571",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782085990339_597324",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782085992142_469455",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782085993255_453723",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782085999957_955433",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086002147_147708",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086003888_242962",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086004994_621188",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782086007001_347592",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086008860_926850",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086009962_823992",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086011005_762594",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086013036_780183",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782086014147_284932",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782086064146_13258",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086066104_540136",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086067320_369846",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086068654_45629",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c49_1782086070649_954525",
+          "cardId": "c49",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086077029_944664",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086079253_878804",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086096440_940522",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086099616_28158",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086100864_271468",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782086102633_923842",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086103782_621613",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086105755_636491",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086106904_616687",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086108963_129846",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086110028_823038",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086111272_542324",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086113251_41239",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086118600_268778",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086120482_979444",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086121714_639966",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782086122750_804246",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086151251_231659",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086152428_432407",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086153459_249229",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086154645_879679",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086155760_984349",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086156903_648162",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782086157972_128229",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086160038_138412",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086161326_142583",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086165335_940986",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086166742_386284",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086169228_370792",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086170902_460465",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782086196962_449064",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086198198_460422",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086199912_671114",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782086200961_528071",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086201998_689272",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782086211440_674679",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086214375_215270",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782086215832_544198",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086217551_897835",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086219150_63741",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086222023_909624",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086223123_228487",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086225651_114864",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086227688_634265",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086229752_134299",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086259508_100061",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086261049_758436",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086262364_124825",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086263618_128663",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782086265704_811810",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086266839_710803",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086268006_950257",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086270523_476169",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086271681_894991",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086273218_35620",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086274389_816306",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782086275467_791604",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086276481_788805",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086277521_228540",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086278745_943982",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086280890_399713",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086284142_128397",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086285187_928933",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086286217_660554",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086287535_383240",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086289167_387491",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086291314_834008",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782086293117_52846",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086326147_932219",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086328151_826086",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782086330631_759649",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086332661_931842",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086335068_21339",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086336204_583420",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086338348_109712",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086339518_379598",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086341073_200235",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c80_1782086342098_45060",
+          "cardId": "c80",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086343186_46508",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086356011_573750",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086358168_653641",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086361411_721871",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086362526_590410",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086364590_538240",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086367066_602182",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086368082_314159",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782086369111_229297",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782086371004_682082",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086372980_856894",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782086374289_81457",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086375361_957653",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086376762_503730",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086379931_934466",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086381450_887255",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086382637_480991",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782086385398_819645",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086386424_331496",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782086387432_201441",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086388468_951253",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086390534_838014",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086392477_230267",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086398732_169023",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086399979_843439",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086401396_57484",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086402763_993262",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086403828_153740",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086430215_507205",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086431314_292188",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086433344_239620",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086435811_329845",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086437733_126046",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086438819_353325",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086439998_759509",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086441878_403364",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086442954_657011",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086445014_505833",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782086446193_913599",
+          "cardId": "c15",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086449079_521455",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086451343_445907",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086519316_297934",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086521030_482017",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086522199_509102",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086523621_882775",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086524692_915390",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086525890_66238",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086527392_31457",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086529710_49275",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086530938_940007",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086532629_922838",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086536540_778815",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086537677_153500",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086538736_13036",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086540202_706275",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086541315_886365",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086542739_940181",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086546244_607299",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086549615_174614",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086550698_483337",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086558443_235022",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086560427_145249",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086562638_38829",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086568892_959045",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782086570198_297843",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086571406_572742",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086572565_872425",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086573633_132061",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086574792_742424",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782086575808_632687",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086576938_60191",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086582048_434901",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086584030_386116",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086585196_997835",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086588670_881410",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086589918_164110",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086591080_371104",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086593118_433515",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086595823_322965",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086596830_812973",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086608868_258619",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086609951_590805",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086635111_651334",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086637461_765487",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086639472_784813",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086642079_817101",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086644289_631062",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086659514_474491",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086677801_261233",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782086680788_674267",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086681883_706081",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086683333_217392",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086684549_742603",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086712343_387273",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086713861_729709",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782086727570_846152",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086728832_94818",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086731100_108560",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086733550_310369",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086735450_827011",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782086737472_375462",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086738551_516512",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086740397_708886",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782086742080_83794",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086744118_594086",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c68_1782086745236_189906",
+          "cardId": "c68",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c49_1782086746972_226309",
+          "cardId": "c49",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086748035_117619",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086751387_28429",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086752492_749780",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782086753606_249947",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086754658_291312",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086756058_745399",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086757125_423303",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086758254_563274",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086759951_19907",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782086760983_660650",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086762934_367381",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086764114_299138",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782086766625_537699",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086768459_910071",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782086770558_726667",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086772462_992468",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086774842_408002",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086776761_955795",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086777922_721699",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782086781421_989936",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086782594_223501",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086783678_931939",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086784858_414858",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086786690_53911",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086789591_679918",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086791742_37758",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086792761_766131",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086794419_607282",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086797536_634261",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086798544_656411",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086800237_800760",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086801396_640784",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086807161_75340",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782086808206_369645",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086809370_209724",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782086810446_437555",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782086811460_765367",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086812665_108807",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782086815257_710540",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086816588_123649",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086817657_225418",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086818688_638639",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086819866_265848",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086820979_590248",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086822006_184730",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086823525_614712",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086825334_805135",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086826376_224219",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086828481_567265",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086830486_467597",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086832751_696424",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086834318_506599",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782086835766_712101",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782086836816_744927",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086837910_593332",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086841858_476535",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086844997_760557",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086847125_144478",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782086849997_650984",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086852711_131401",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086853728_370471",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086857058_936767",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782086858268_280899",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086859883_147167",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086863859_473215",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086865472_55241",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782086866772_700482",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086868645_796632",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086869903_803604",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086878594_314011",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086879705_190837",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782086880825_129749",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086882944_379164",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086884166_942220",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086887097_865348",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086888758_888474",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086909326_901944",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086910750_415656",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086911974_533588",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086913834_578765",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086915765_57617",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086917876_503168",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782086918940_634256",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086920913_752332",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782086921962_501040",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782086926175_243955",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782086931775_773429",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086933269_419271",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086934375_378945",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086935443_339461",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782086948400_928002",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086949834_476282",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782086951262_545933",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c62_1782086952710_330187",
+          "cardId": "c62",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086955212_493647",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086956301_114722",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086958025_883634",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782086959634_914105",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782086961514_926472",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086963010_761368",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086965560_750832",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086967388_541657",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086968610_987804",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782086970030_3099",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086972166_491625",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086973569_431520",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782086974640_934448",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c22_1782086975683_982317",
+          "cardId": "c22",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c46_1782086977777_756518",
+          "cardId": "c46",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c58_1782086980601_79110",
+          "cardId": "c58",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086987078_792299",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782086988294_598849",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782086989301_458088",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086990438_715085",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086991681_61170",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782086992739_41410",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782086993785_90168",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782086994875_121224",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782087000532_30407",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782087002051_456874",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782087003238_27783",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782087005267_183982",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782087006386_486878",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782087007528_45561",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782087008896_101610",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087011369_616617",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782087012728_950129",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782087014930_898641",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782087016936_195522",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782087018295_282432",
+          "cardId": "c15",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782087019584_972150",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782087021412_844510",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782087022798_834156",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782087023861_58970",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782087026455_662634",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782087029843_964985",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782087033030_629450",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782087036522_161503",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782087037994_212939",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087040490_602964",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782087042716_83303",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782087046350_488809",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782087048489_129511",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782087050882_921220",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087055534_687970",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782087056652_247594",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087058130_710096",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782087061108_242001",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087062923_449222",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782087065043_455777",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782087071767_26530",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782087073131_703342",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782087074338_634964",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782087076923_576267",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c10_1782087078115_892025",
+          "cardId": "c10",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782087079378_980408",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782087080600_393633",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087081656_165488",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782087084885_361164",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782087085900_164730",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782087087011_394033",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782087088232_9458",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782087090443_361471",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782087092232_216025",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782087094773_934561",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782087097002_176470",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782087100722_782438",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782087102650_542431",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782087104798_480024",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782087107872_469845",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087111664_127694",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782087114242_532002",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087116770_709553",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782087119339_934841",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782087122426_213048",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782087125915_845731",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782087129218_221184",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782087132240_724474",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782087133901_821171",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782087136455_560601",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782087138112_284126",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782087140703_676097",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782087143498_520691",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782087146621_878232",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c19_1782087149282_86043",
+          "cardId": "c19",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782087152683_561929",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782087154687_108194",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782087157122_266559",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782087158976_78553",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782087162295_817398",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782087165878_882645",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782087169719_208963",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782087172263_517362",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782087174718_853690",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782087178165_444845",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782087181175_580745",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782087184620_213048",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782087187928_750437",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782087190061_850337",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782087192657_764912",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c14_1782087196138_925323",
+          "cardId": "c14",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782087198486_992502",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782087207238_959489",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782087208467_418391",
+          "cardId": "c9",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 2181,
+      "bestCard": 0,
+      "lineup": {
+        "GK": "c20",
+        "CM1": "c49",
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": "cahl_1782072182832",
+      "guildRole": "member",
+      "guildBonus": 0
+    },
+    "1191117075561840720": {
+      "money": 142745,
+      "club": [
+        {
+          "instanceId": "c9_1782083985979_124428",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782083990337_301903",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782083993705_581925",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782083995451_666090",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782083999466_684421",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782084003804_939579",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782084005204_499710",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782084006973_10950",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782084008033_42973",
+          "cardId": "c3",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 625,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": "c67",
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": "cahl_1782072182832",
+      "guildRole": "member",
+      "guildBonus": 0
+    },
+    "1120296814831206400": {
+      "money": 1000,
+      "club": [],
+      "packsOpened": 0,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": null,
+      "guildRole": null,
+      "guildBonus": 0
+    },
+    "863711660333465620": {
+      "money": 0,
+      "club": [
+        {
+          "instanceId": "c1_1782073786338_838574",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782073795570_696574",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782073798833_178550",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c11_1782073802280_956570",
+          "cardId": "c11",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782073807757_657400",
+          "cardId": "c2",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 5,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": null,
+      "guildRole": null,
+      "guildBonus": 0
+    },
+    "1372655281242378320": {
+      "money": 1000,
+      "club": [],
+      "packsOpened": 0,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": null,
+      "guildRole": null,
+      "guildBonus": 0
+    },
+    "1233378351704707146": {
+      "money": 6770,
+      "club": [
+        {
+          "instanceId": "c67_1782078810208_878957",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782078812125_545861",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782078816652_966125",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782078821902_388817",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782078825057_721596",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782078830075_666568",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782078833839_647257",
+          "cardId": "c7",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 68,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": null,
+      "guildRole": null,
+      "guildBonus": 0
+    },
+    "911138358569349130": {
+      "money": 4000,
+      "club": [
+        {
+          "instanceId": "c9_1782083735846_294878",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782083786699_438336",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c64_1782083787786_497612",
+          "cardId": "c64",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c4_1782084024621_167403",
+          "cardId": "c4",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782084029789_600770",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782084032765_364562",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782084035977_229322",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782084037532_788281",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c65_1782084040157_503722",
+          "cardId": "c65",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782084042402_191315",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782084044225_375602",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c6_1782084045589_663322",
+          "cardId": "c6",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c17_1782084046980_277356",
+          "cardId": "c17",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c2_1782084048267_183180",
+          "cardId": "c2",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782084049545_209328",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c60_1782084052946_940864",
+          "cardId": "c60",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c1_1782084054717_598665",
+          "cardId": "c1",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782084056444_672211",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782084058309_149854",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782084060337_396571",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782087191135_725797",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c67_1782087195697_311721",
+          "cardId": "c67",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c94_1782087196936_626704",
+          "cardId": "c94",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c63_1782087198279_347397",
+          "cardId": "c63",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782087199446_276047",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782087200764_513231",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c61_1782087202031_61169",
+          "cardId": "c61",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c3_1782087203388_905085",
+          "cardId": "c3",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c8_1782087204606_612505",
+          "cardId": "c8",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782087205786_16417",
+          "cardId": "c15",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782087207031_833738",
+          "cardId": "c12",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 101,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": {
+        "name": null,
+        "balance": 0,
+        "level": 1,
+        "upgrades": 0,
+        "members": [],
+        "perks": {
+          "packLuck": 0,
+          "moneyBoost": 0
+        }
+      },
+      "guildRole": null,
+      "guildBonus": 0
+    },
+    "1416533152037470440": {
+      "money": 125820,
+      "club": [
+        {
+          "instanceId": "c26_1782084653533_626016",
+          "cardId": "c26",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c36_1782085045508_533840",
+          "cardId": "c36",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c27_1782085083164_876126",
+          "cardId": "c27",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c74_1782085153330_953475",
+          "cardId": "c74",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c75_1782085264098_277289",
+          "cardId": "c75",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c36_1782085858809_270004",
+          "cardId": "c36",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782085901481_472394",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782085947327_675941",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085970256_608828",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085973935_774207",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782085980903_344171",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782085982524_53896",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782085986642_38909",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782085991140_98045",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782085992349_348247",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782085998444_894494",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086001419_907918",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782086014182_484840",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086054731_195826",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086061672_558936",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c18_1782086067090_333209",
+          "cardId": "c18",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086084540_892550",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086088257_262333",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086090646_553408",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086098529_930198",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086109802_350754",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086114893_959535",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086136342_185690",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086147070_955803",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086152181_380530",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086159420_903531",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086160691_156633",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086164220_779054",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c35_1782086172249_616038",
+          "cardId": "c35",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c16_1782086200631_459197",
+          "cardId": "c16",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086212710_943706",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782086226330_119306",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086256159_887199",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086269095_622363",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c21_1782086285311_914512",
+          "cardId": "c21",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086361326_343416",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086388235_53845",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086397052_898562",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086415746_447575",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086576302_386560",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c20_1782086585462_392905",
+          "cardId": "c20",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086596480_284045",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c12_1782086606810_436821",
+          "cardId": "c12",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086616411_617835",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086618822_602231",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c59_1782086640885_322310",
+          "cardId": "c59",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c49_1782086649957_227631",
+          "cardId": "c49",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086663080_656823",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086664892_952252",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086717091_717250",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086718114_840451",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c9_1782086719256_96822",
+          "cardId": "c9",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c5_1782086783484_34330",
+          "cardId": "c5",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c15_1782086797427_429733",
+          "cardId": "c15",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086798612_926967",
+          "cardId": "c13",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c7_1782086813087_439578",
+          "cardId": "c7",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c66_1782086824947_396302",
+          "cardId": "c66",
+          "variant": "GOLD"
+        },
+        {
+          "instanceId": "c13_1782086826341_731677",
+          "cardId": "c13",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 779,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": {
+        "name": null,
+        "balance": 0,
+        "level": 1,
+        "upgrades": 0,
+        "members": [],
+        "perks": {
+          "packLuck": 0,
+          "moneyBoost": 0
+        }
+      },
+      "guildRole": null,
+      "guildBonus": 0
+    },
+    "1360327616065966170": {
+      "money": 800,
+      "club": [
+        {
+          "instanceId": "c58_1782084997186_855361",
+          "cardId": "c58",
+          "variant": "GOLD"
+        }
+      ],
+      "packsOpened": 1,
+      "bestCard": 0,
+      "lineup": {
+        "GK": null,
+        "CM1": null,
+        "CM2": null,
+        "LW": null,
+        "RW": null
+      },
+      "completedSets": [],
+      "specialCards": {},
+      "guild": {
+        "name": null,
+        "balance": 0,
+        "level": 1,
+        "upgrades": 0,
+        "members": [],
+        "perks": {
+          "packLuck": 0,
+          "moneyBoost": 0
+        }
+      },
+      "guildRole": null,
+      "guildBonus": 0
+    }
+  },
+  "marketListings": [],
+  "auctions": [],
+  "globalExists": {
+    "c12": 82,
+    "c66": 286,
+    "c7": 254,
+    "c58": 71,
+    "c5": 232,
+    "c4": 264,
+    "c18": 47,
+    "c3": 285,
+    "c67": 219,
+    "c19": 55,
+    "c11": 97,
+    "c61": 251,
+    "c65": 257,
+    "c20": 19,
+    "c60": 422,
+    "c63": 186,
+    "c1": 399,
+    "c6": 230,
+    "c17": 464,
+    "c10": 65,
+    "c62": 81,
+    "c2": 341,
+    "c64": 318,
+    "c8": 205,
+    "c9": 145,
+    "c16": 42,
+    "c59": 46,
+    "c46": 6,
+    "c14": 70,
+    "c37": 15,
+    "c13": 69,
+    "c15": 46,
+    "c48": 1,
+    "c50": 4,
+    "c22": 10,
+    "c21": 4,
+    "c36": 7,
+    "c49": 6,
+    "c35": 7,
+    "c39": 1,
+    "c94": 127,
+    "c68": 19,
+    "c82": 1,
+    "c69": 1,
+    "c71": 1,
+    "c25": 1,
+    "c74": 2,
+    "c70": 1,
+    "c26": 1,
+    "c27": 1,
+    "c31": 1,
+    "c75": 1,
+    "c38": 1,
+    "c76": 1,
+    "c80": 1
+  },
+  "guilds": {
+    "cahl_1782072182832": {
+      "id": "cahl_1782072182832",
+      "name": "cahl",
+      "owner": "1167559400471396363",
+      "balance": 57542,
+      "level": 11,
+      "upgrades": 10,
+      "members": [
+        "1167559400471396363",
+        "1457458098749833237",
+        "1191117075561840720",
+        "813549731871326289",
+        "815921644227788810"
+      ],
+      "perks": {
+        "moneyBoost": 10,
+        "packLuck": 25
+      },
+      "competitions": {
+        "wins": 0,
+        "losses": 0,
+        "points": 0
+      },
+      "bank": 0
+    }
+  },
+  "COLLECTION_SETS": []
+}
